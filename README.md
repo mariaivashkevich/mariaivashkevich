@@ -1,20 +1,25 @@
-### Hi there 👋
-
-<!--
-**mariaivashkevich/mariaivashkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iDvCzaRjNV61J5jtc0/giphy.gif" width="350"/>
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GitHub Profile</title>
+  </head>
+  <body>
+    <header>
+      <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" alt="Profile Avatar">
+      <h1>Mariia</h1>
+      <p>QA Automation Engineer</p>
+    </header>
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li><a href="#">[Project 1](https://www.linkedin.com/in/mariia-ivashkevich/)</a></li>
+        <li><a href="#">[Project 2](https://www.linkedin.com/in/mariia-ivashkevich/)</a></li>
+        <li><a href="#">[Project 3](https://www.linkedin.com/in/mariia-ivashkevich/)</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>About Me</h2>
+      <p>interes skiills etc</p>
+    </section>
+  </body>
+</html>
