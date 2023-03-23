@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-  
+<div align="center"> 
+      <img src="https://media.giphy.com/media/6oeRBKg7mwEZnSnYkn/giphy.gif" alt="Profile Avatar">
   </head>
   <body>
     <header>
-      <div align="center"> 
-      <img src="https://media.giphy.com/media/cJ5vF0yBJdspg9GgJd/giphy.gif" alt="Profile Avatar">
-      <h1 align="center">Hey ✌️, I'm Maria</h1>
+    <h1 align="center">Hey ✌️, I'm Maria</h1>
 <h3 align="center">QA Automation Engineer</h3>
 
 - 🌱 I’m currently learning **Python, JavaScript, SQL, MySQL, XPath, XML, HTML5, CSS3, JSON**
@@ -48,3 +47,5 @@
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30" /> &nbsp;
+<div align="center"> 
+      <img src="https://media.giphy.com/media/cJ5vF0yBJdspg9GgJd/giphy.gif" alt="Profile Avatar">
